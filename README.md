@@ -1,1 +1,7 @@
-# Micro-Stack-Lab
+# MicroStackLab: Sistema de Micro-Serviços
+
+## Descrição
+O MicroStackLab é um projeto backend que tem como objetivo criar uma infraestrutura de apis escaláveis e eficiente por meio da divisão de responsabilidades em serviços independentes, mas integrados. Cada serviço (Autenticação, Agendamento e Gestão por exemplo), opera de forma autônoma. Este design promove o desenvolvimento, a manutenção e o escalonamento individual de cada serviço, facilitando uma melhor organização e flexibilidade.
+
+## Objetivo
+Este projeto busca plicar por meio de colaboração em equipe, conceitos avançados como segurança de APIs, escalonamento, testes e manutenibilidade em uma arquitetura de micro-serviços.
